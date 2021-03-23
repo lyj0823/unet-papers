@@ -4,11 +4,8 @@
 ## 2D 分割
 * U-Net: Convolutional Networks for Biomedical Image Segmentation.
 ## 3D 分割   
-* 3D Dense-U-Net. 
-Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation.   
-* 3D Dense-U-Net-V1.    
-3D Dense-U-Net for MRI Brain Tissue Segmentation
+* 3D Dense-U-Net. Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation.   
+* 3D Dense-U-Net-V1. 3D Dense-U-Net for MRI Brain Tissue Segmentation
 * AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy
-
 * 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation 
 * V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation 
